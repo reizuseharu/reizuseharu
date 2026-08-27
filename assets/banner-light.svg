@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" width="1280" height="320" role="img" aria-label="reizu">
+  <title>reizu</title>
+  <rect width="1280" height="320" fill="#F7F4EC"/>
+  <g fill="#E8A33D" transform="translate(1110 160) scale(0.9) translate(-256 -256)">
+    <path d="M244 106 L268 106 L256 36 Z"/>
+    <path d="M244 106 L268 106 L256 36 Z" transform="rotate(90 256 256)"/>
+    <path d="M244 106 L268 106 L256 36 Z" transform="rotate(180 256 256)"/>
+    <path d="M244 106 L268 106 L256 36 Z" transform="rotate(270 256 256)"/>
+    <path d="M247 106 L265 106 L256 71 Z" transform="rotate(45 256 256)"/>
+    <path d="M247 106 L265 106 L256 71 Z" transform="rotate(135 256 256)"/>
+    <path d="M247 106 L265 106 L256 71 Z" transform="rotate(225 256 256)"/>
+    <path d="M247 106 L265 106 L256 71 Z" transform="rotate(315 256 256)"/>
+  </g>
+  <g fill="#E6DECB" transform="translate(1110 160) scale(0.9) translate(-256 -256)">
+    <path d="M126 268 C 169 193 216 169 256 169 C 296 169 343 193 386 268 C 337 250 299 268 256 302 C 213 268 175 250 126 268 Z"/>
+    <path d="M218 178 L224 143 L247 172 Z"/>
+    <path d="M294 178 L288 143 L265 172 Z"/>
+    <path d="M247 291 L265 291 L259 356 L253 356 Z"/>
+  </g>
+  <text x="80" y="160" font-family="JetBrains Mono, monospace" font-size="64" font-weight="500" letter-spacing="-1.92" fill="#123B4F">rei<tspan fill="#E8A33D">z</tspan>u</text>
+  <text x="82" y="196" font-family="JetBrains Mono, monospace" font-size="20" font-weight="500" letter-spacing="0.5" fill="#6B7F8A">think • create • shine</text>
+</svg>
